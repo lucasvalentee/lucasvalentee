@@ -1,4 +1,4 @@
-## Hey! My name is Lucas and I am 22 years old. 👋
+## Hey! My name is Lucas and I am 23 years old. 👋
 
 I have been working in the programming field for almost 4 years. I worked on a PHP application using the MVC model for development, but my focus has always been Javascript and with that I changed my career to Node.js and Angular, where I worked on the development of an ERP and currently I work as a software engineer in a chatbots application for hotels (using artificial intelligence) and an administrative system, using various technologies including Node.js, Angular, ReactJS, Java and AWS.
 
