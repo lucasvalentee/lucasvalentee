@@ -1,4 +1,4 @@
-## Hello, my name is Lucas Valente, and I'm 24 years old, originally from Santa Catarina, Brazil.
+## Hello, my name is Lucas Valente, and I'm 25 years old, originally from Santa Catarina, Brazil.
 
 My journey in programming began in 2018 when I started my Bachelor's degree in Information Systems at UNIDAVI. Early on, I took my first steps in a PHP application following the MVC model. However, as my journey progressed, my interest gravitated strongly toward the JavaScript language. In 2020, I made the decision to redirect my career, focusing my efforts on the realms of Node.js and Angular. During this transition, I played a significant role in the development of a robust ERP system.
 
