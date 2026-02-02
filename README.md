@@ -1,12 +1,12 @@
-## Hello, my name is Lucas Valente, and I'm 25 years old, originally from Santa Catarina, Brazil.
+## Hello, my name is Lucas Valente, and I'm 26 years old, originally from Santa Catarina, Brazil.
 
-My journey in programming began in 2018 when I started my Bachelor's degree in Information Systems at UNIDAVI. Early on, I took my first steps in a PHP application following the MVC model. However, as my journey progressed, my interest gravitated strongly toward the JavaScript language. In 2020, I made the decision to redirect my career, focusing my efforts on the realms of Node.js and Angular. During this transition, I played a significant role in the development of a robust ERP system.
+My journey in programming started in 2018, when I began my Bachelor's degree in Information Systems at UNIDAVI. I initially worked with PHP following the MVC pattern, which helped me build a solid foundation in backend concepts. Over time, my interest naturally shifted toward JavaScript, leading me in 2020 to focus my career on Node.js and Angular, where I contributed to the development of a large-scale ERP system.
 
-Currently, I hold the position of a software engineer in an exciting and challenging environment. My work revolves around the development of chatbots for hotels. Additionally, I am actively involved in building a comprehensive administrative system, utilizing various technologies such as Node.js, Angular, ReactJS, Java, and AWS. Moreover, I go beyond the scope of chatbots, participating in the planning of new system features and continually seeking improvements.
+Today, I work as a Software Engineer, primarily focused on backend and platform development. I build and maintain chatbot platforms for hotels and contribute to the development of internal administrative systems. My daily work involves technologies such as Node.js, NestJS, TypeScript, React, Java, and AWS, always with an emphasis on scalability, reliability, and clean architecture.
 
-In addition to the previously mentioned technologies, I have experience with Next.js, Prisma, and other relevant libraries in the context of the React ecosystem.
+Beyond feature development, I actively participate in system design, planning, and continuous improvement, collaborating closely with other engineers to evolve the platform as a whole. I also have hands-on experience with Next.js, Prisma, and modern tooling within the React ecosystem.
 
-I am highly communicative and enjoy sharing knowledge with my colleagues and friends. I am always open to new challenges and opportunities in the field of programming, eager to continue my journey of growth and innovation.
+I enjoy sharing knowledge, collaborating with others, and working in environments that value ownership and technical excellence. I am always open to new challenges and opportunities that allow me to grow as an engineer and build impactful software.
 
 ### Contact
 
